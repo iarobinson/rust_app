@@ -3,7 +3,7 @@
 A simple webserver using Rust programming language to send an HTML page
 
 ## Instructions to run locally:
-- Clone this repository `git clone <link from repo> && cd rust_app`
+- Clone this repository `git clone git@github.com:iarobinson/rust_app.git && cd rust_app`
 - Ensure you have [Rust installed](https://www.rust-lang.org/) on your local machine
 - Compile the code `rust main.rs`
 - Run the app `./main`
