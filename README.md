@@ -1,4 +1,6 @@
-# Simple rust server sending an html file
+# Rust App
+
+A simple webserver using Rust programming language to send an HTML page
 
 ## Instructions to run locally:
 - Clone this repository `git clone <link from repo> && cd rust_app`
